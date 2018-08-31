@@ -12,7 +12,7 @@ instance_groups:
         agent:
           password: ((jenkins_agent_password))
         server:
-          address: ((jenkins_server_url))
+          url: ((jenkins_server_url))
     release: jenkins
   name: jenkins-master
   networks:
