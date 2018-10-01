@@ -102,9 +102,9 @@ releases:
   url: https://storage.googleapis.com/buildtools-release-tarballs/nexus-boshrelease/nexus-boshrelease-v1.0.10.tgz
   version: 1.0.10
 - name: sonarqube
-  sha1: 7f4aa22d40d7de65485d9d83db09fec6d165b629
-  url: https://storage.googleapis.com/buildtools-release-tarballs/sonarqube-boshrelease/sonarqube-boshrelease-v0.0.42.tgz
-  version: 0.0.42
+  sha1: 243ec36d7a1c03ed86cf0baaa6dd8ac1ca18fc28
+  url: https://storage.googleapis.com/buildtools-release-tarballs/sonarqube-boshrelease/sonarqube-boshrelease-v0.0.49.tgz
+  version: 0.0.49
 - name: docker
   sha1: f192296243e68150ae66656fc9134a2b2a023184
   url: https://github.com/cloudfoundry-incubator/docker-boshrelease/releases/download/v32.0.0/docker-32.0.0.tgz
