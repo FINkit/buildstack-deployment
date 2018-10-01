@@ -115,8 +115,8 @@ releases:
   version: 9.3.0
 stemcells:
 - alias: default
-  os: ubuntu-trusty
-  version: "3586.43"
+  os: ubuntu-xenial
+  version: "97.18"
 update:
   canaries: 1
   canary_watch_time: 15000-300000
