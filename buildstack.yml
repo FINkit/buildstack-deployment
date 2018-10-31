@@ -94,9 +94,9 @@ name: buildstack
 os: ubuntu-trusty
 releases:
 - name: jenkins
-  sha1: dd5fcee517b423e20fa38b8ab51cece337403a15
-  url: https://storage.googleapis.com/buildtools-release-tarballs/jenkins-boshrelease/jenkins-boshrelease-v0.0.105.tgz
-  version: 0.0.105
+  sha1: 9acb405dc3d087d63918585375569e3e1d9a089c
+  url: https://storage.googleapis.com/buildtools-release-tarballs/jenkins-boshrelease/jenkins-boshrelease-v0.0.106.tgz
+  version: 0.0.106
 - name: nexus
   sha1: a482a77b0716186bcff29934dff8d60a16133747
   url: https://storage.googleapis.com/buildtools-release-tarballs/nexus-boshrelease/nexus-boshrelease-v1.0.29.tgz
